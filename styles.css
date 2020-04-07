@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  background-color: white;
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.logo{
+  font-size:2rem;
+  color: #ffffff; 
+}
+
+header{
+  background-image: url();
+}
+
+h1{
+  margin-left: 400px;
+}
